@@ -1,5 +1,6 @@
 {
   "name": "favouritefood",
+  "homepage": "https://greenfrogs.github.io/LlmFavouriteFood/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
